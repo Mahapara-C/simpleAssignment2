@@ -1,0 +1,292 @@
+@media only screen and (min-width:200px) and (max-width: 576px) {
+    .header{
+        margin: 20px 10px;
+    }
+    .header-middle{
+        margin: 20px 10px;
+    }
+    .leftimg img{
+        width: 50px;
+    }
+    .middle{
+        margin: 0px;
+        margin-top: 10px;
+    }
+    .middle h5 {
+        margin: 0px 10px;
+        font-size: 9px;
+        text-align: center;
+    }
+    .line{
+        margin-left: 0px;
+    }
+    .rigt {
+        height: fit-content;
+        width:140px;
+       
+        left: 200px;
+    }
+    .searc{
+        margin:  8px;
+    }
+    .searc img{
+        width: 15px;
+        height: 15px;
+    }
+    .searc h5{
+        font-size: 9px;
+    }
+    .line{
+       height: 20px;
+        margin: 5px;
+       
+        
+        margin-left: 30px;  
+    
+    }
+    .cart{
+        margin: 0px;
+        padding: 5px;
+    }
+    .cart img {
+       
+        width: 18px;
+    }
+    .delivery-block{
+        margin: 10px 0px;
+        padding: 12px;
+        padding-right: 50px;
+       
+    }
+    .dlv-txt h5{
+        font-size: 9px;
+    
+    }
+    .dlv-img{
+        top: -8.5px;
+    } 
+    .img1 img{
+        height: 44px;
+        width: 44px;
+    }
+    .img2 img{
+        height: 24px;
+        width: 24px;
+    }
+    .text h1 {
+        font-size: 36px;
+        line-height: 38px;
+    }
+    .text p{
+        margin: 20px 0px;
+        font-size: 10px;
+    }
+    .btn-container{
+        margin: 20px 0px;
+    }
+    #btn {
+        width: 98px;
+        height: 46px;
+        padding: 2px 27px;
+        font-size: 10px;
+        margin-top: 0px;
+    }
+    .btn-container img{
+        width: 45px;
+        height: 45px;
+    }
+    .btn-container h4 {
+        font-size: 10px;
+        margin-top: 15px;
+    }
+    .header-middle {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .slider{
+        display: flex;
+    }
+    .slider img{
+        width: 90px;
+        height: 90px;
+    }
+    .slider-item h4{
+        text-align: center;
+        font-size: 13px;
+    
+    }
+    .slider-item p{
+        text-align: center;
+        font-size: 9px;
+    
+    }
+    .slider-item h5{
+        text-align: center;
+        font-size: 9px;}
+    .list-container{
+       
+        margin: 20px 10px;
+        width: 350px;
+        height: 80px;
+        padding: 30px 0px;
+        
+    }
+    .circle{
+        margin-left: 35%;
+    }
+    .block-text h5{
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    .block-text p{
+       
+        font-size: 8px;
+    }
+    .block-text2 h5{
+        margin-top: 10px;
+        font-size: 10px;
+        margin-left: 22px;
+    }
+    .block-text2 p{
+       
+        font-size: 8px;
+        margin-left: 22px;
+    }
+    
+    .line2 {
+        width: 100px;
+        top: 38px;
+        left: 23%;
+    }
+    .line3 {
+        width: 100px;
+        top: 38px;
+        left: 194px;
+       
+    }
+    .title{
+        margin: 50px;
+    }
+    .title p{
+        font-size: 9px;
+    }
+    .title h3{
+        font-size: 18px;
+    }
+    .cards {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .card-img img {
+        width: 330px;
+        height: 330px;
+    }
+    .card-text h4 {
+        font-size: 18px;
+    }
+    #addtocart {
+        padding: 8px 12px;
+        font-size: 9px;
+    }
+    .card-rigt p {
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    .centr-btn {
+        padding: 10px 15px;
+        font-size: 9px;
+    }
+    .services{
+        gap: 10px;
+    }
+    .service {
+        padding: 30px 10px;
+    }
+    .service-img {
+        
+        padding: 10px;
+        left: 35%;
+    }
+    .service-img img{
+        width: 20px;
+        height: 20px;
+    }
+    .service-txt {
+        margin-top: 10px;
+    }
+    .service-txt h4{
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .service-txt p{
+        font-size: 7px;
+    }
+    .testimony{
+        flex-direction: column;
+    }
+    .txt {
+        padding: 40px 0px;
+    }
+    .review p{
+        font-size: 9px;
+    }
+    .img img{
+        width: 330px;
+        height: 330px;
+    }
+    .arro2 {
+        position: absolute;
+        left: 330px;
+    }
+    .subscribe img{
+        width: 100px;
+        height: 100px;
+        margin-top: 50px;
+    }
+    .subs h3 {
+        font-size: 13px;
+       
+        margin-top: 40px;
+    }
+    .subs p {
+        font-size: 6px;
+        color: #fff;
+        margin: 20px 0px;
+    }
+    .box {
+        width: 80%;
+        padding: 0px 15px;
+    }
+    .box input {
+        margin-top: 8px;
+        padding: 10px;
+        width: 80px;
+        font-size: 9px;
+    }
+    .sub-container {
+        margin: 50px 0px;
+        height: 200px;
+    }
+    footer{
+        padding: 30px 10px;
+    }
+    .footer-container{
+        gap: 20px;
+    }
+    .company img{
+        width: 20px;
+        height: 20px;
+    }
+    .footer-container p {
+        font-size: 4px;
+        
+    }
+    .info h4 {
+        margin-bottom: 15px;
+        font-size: 9px;
+    }
+    .fa-brands, .fa-classic, .fa-regular, .fa-sharp-solid, .fab, .far, .fas {
+        font-size: 12px;
+    }
+
+    }
